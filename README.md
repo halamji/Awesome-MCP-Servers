@@ -9,10 +9,10 @@ A curated, community-driven list of awesome Model Context Protocol (MCP) servers
 
 **Read our documentation in the following languages:**
 
-| Language                | Link                                                                 |
-|-------------------------|---------------------------------------------------------------------|
-| English                 | [English]([https://github.com/YuzeHao2023/Awesome-MCP-Servers/README.md](https://github.com/YuzeHao2023/Awesome-MCP-Servers?tab=readme-ov-file))        |
-| 中文                    | [中文]([https://github.com/YuzeHao2023/Awesome-MCP-Servers/README_zh_CN.md](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/README_zh_CN.md))      |
+| Language | Link                                                                 |
+|----------|---------------------------------------------------------------------|
+| English  | [English](https://github.com/YuzeHao2023/Awesome-MCP-Servers?tab=readme-ov-file) |
+| 中文     | [中文](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/README_zh_CN.md) |
 
 ---
 
